@@ -1,5 +1,7 @@
 <h1>My custom change!</h1>
 
+<img src="https://picsum.photos/200/300" alt="Lorem Picsum">
+
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
